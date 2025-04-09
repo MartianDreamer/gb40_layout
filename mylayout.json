@@ -207,7 +207,7 @@
       "KC_RGHT"
     ],
     [
-      "KC_ESC",
+      "MACRO(0)",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -234,7 +234,7 @@
       "KC_TAB",
       "KC_INS",
       "KC_PGUP",
-      "MACRO(0)",
+      "KC_DEL",
       "KC_F",
       "KC_G",
       "KC_H",
