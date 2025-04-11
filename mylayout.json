@@ -231,7 +231,7 @@
       "KC_F9",
       "KC_F10",
       "KC_DEL",
-      "KC_TAB",
+      "KC_CAPS",
       "KC_INS",
       "KC_PGUP",
       "KC_DEL",
@@ -248,9 +248,9 @@
       "KC_PGDN",
       "KC_END",
       "KC_V",
-      "CUSTOM(5)",
+      "KC_B",
       "KC_N",
-      "KC_CAPS",
+      "KC_M",
       "CUSTOM(1)",
       "CUSTOM(2)",
       "CUSTOM(3)",
@@ -266,7 +266,7 @@
       "KC_NO",
       "CUSTOM(0)",
       "CUSTOM(4)",
-      "MO(2)"
+      "CUSTOM(5)"
     ]
   ],
   "encoders": []
