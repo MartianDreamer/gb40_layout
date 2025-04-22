@@ -83,7 +83,7 @@
       "KC_RGHT"
     ],
     [
-      "KC_ESC",
+      "KC_GRV",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -108,8 +108,8 @@
       "KC_0",
       "KC_BSPC",
       "KC_TAB",
-      "KC_GRV",
-      "KC_S",
+      "KC_MINS",
+      "KC_EQL",
       "KC_D",
       "KC_F",
       "KC_G",
