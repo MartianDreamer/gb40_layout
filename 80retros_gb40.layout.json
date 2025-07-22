@@ -75,9 +75,9 @@
       "KC_NO",
       "LT(1,KC_SPC)",
       "KC_NO",
-      "LT(3,KC_SPC)",
+      "LT(1,KC_SPC)",
       "KC_NO",
-      "MO(2)",
+      "MO(3)",
       "KC_LEFT",
       "KC_DOWN",
       "KC_RGHT"
@@ -135,9 +135,9 @@
       "KC_LGUI",
       "KC_LALT",
       "KC_NO",
-      "KC_NO",
-      "KC_NO",
       "KC_BSPC",
+      "KC_NO",
+      "KC_RSFT",
       "KC_NO",
       "MO(2)",
       "KC_LEFT",
@@ -145,7 +145,7 @@
       "KC_RGHT"
     ],
     [
-      "MACRO(0)",
+      "KC_ESC",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -207,7 +207,7 @@
       "KC_RGHT"
     ],
     [
-      "KC_ESC",
+      "MACRO(0)",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -261,7 +261,7 @@
       "KC_NO",
       "CUSTOM(5)",
       "KC_NO",
-      "KC_NO",
+      "KC_SPC",
       "KC_NO",
       "KC_NO",
       "KC_LEFT",
